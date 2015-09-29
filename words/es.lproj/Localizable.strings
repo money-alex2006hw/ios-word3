@@ -1,0 +1,82 @@
+/*
+ Localization.strings
+ words
+ 
+ Created by Marius Rott on 18/02/14.
+ Copyright (c) 2014 mrott. All rights reserved.
+ */
+
+"wordSearch" = "SWord Search";
+"buttonUnlockPackages" = "SGet more Packages";
+"packages" = "SPackages";
+"quests" = "SQuests";
+"Level1" = "SLevel1";
+"Movies" = "SMovies";
+"Completed %d/%d puzzles" = "SCompleted %d/%d puzzles";
+"Complete 3 different sessions in under 03:00 minutes each" = "SComplete 3 different sessions in under 03:00 minutes each";
+"Completed" = "SCompleted";
+"Scary Movie Titles" = "SScary Movie Titles";
+"bestTime" = "SBest time:";
+"costCoins" = "SCost: %d coins";
+"cancel" = "SCancel";
+"OK" = "SOK";
+"useHint" = "SUse Hint?";
+"useHintMsg" = "SReveal the first char of a word";
+"removeChars" = "SUse Remove Chars?";
+"removeCharsMsg" = "SRemove some chars to find easier the words";
+"resolvePuzzle" = "SUse Resolve Puzzle?";
+"resolvePuzzleMsg" = "SReveal all the words";
+"gamePaused" = "SGame Paused";
+"resumeGame" = "SResume Game";
+"congratulations" = "SCongratulations!";
+"nextGame" = "SNext Game";
+"shareAndWin" = "SShare and win Coins!";
+"share" = "SShare";
+"%d points" = "S%d points";
+"New Record: %@" = "SNew Record: %@";
+"Time: %@" = "STime: %@";
+"restart" = "SRestart";
+"settings" = "SSettings";
+"backToPackage" = "SBack to Package";
+"moreGames" = "SMore Games";
+"notifications" = "SNotifications";
+"sounds" = "SSounds";
+"music" = "SMusic";
+"restorePurchases" = "SRestore Purchases";
+"about" = "SAbout";
+"coinsDesc1" = "S1000 Coins";
+"coinsDesc2" = "S3000 Coins + 1000 Free!";
+"coinsDesc3" = "S5000 Coins + 3000 Free!";
+"coinsDesc4" = "S10000 Coins + 10000 Free!";
+"coins1" = "SCoins Basic Pack";
+"coins2" = "SCoins Booster Pack";
+"coins3" = "SCoins Super Pack";
+"coins4" = "SCoins Ultimate Pack";
+"buy" = "SBuy";
+"on" = "SOn";
+"off" = "SOff";
+"raterTitle" = "SEnjoy %@?";
+"raterMsg" = "SIf you like %@ and wanna bring more players on-board - rate it with 5 stars too. Every rating helps!";
+"raterNotNow" = "SNot now, Thanks";
+"raterRateNow" = "SRate Now";
+"raterMaybeLater" = "SMaybe Later";
+
+
+"restoredPurchasesMsg" = "SYou have successfully restored your purchases!";
+"purchaseError" = "SPurchase error";
+"restoreErrorMsg" = "SThere was an error completing your restore. Please try again later!";
+"purchaseErrorMsg" = "SThere was an error completing your purchase. Please try again later!";
+"networkConnection" = "SNetwork Connection";
+"networkConnectionMsg" = "SPlease connect to internet to have access to Coins purchases!";
+"coins" = "SCoins";
+"coinsMsg" = "SYou don't have enough coins!";
+"getCoinsNow" = "SGet coins Now!";
+"winCoins" = "SWin %d Coins!";
+"watchVideos" = "SWatch %d videos";
+"videoAds" = "SVideo Ads";
+"videoAdsMsg" = "SNo video ads are available right now. Please come back later!";
+"receivedCoinsMsg" = "SYou received %d Coins";
+"freeCoins" = "SFree Coins";
+"reviewApp" = "SReview App";
+"email" = "SEmail Support";
+"unlockPackages" = "SUnlock Packages";

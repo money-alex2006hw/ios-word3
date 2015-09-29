@@ -1,0 +1,82 @@
+/* 
+  Localization.strings
+  words
+
+  Created by Marius Rott on 18/02/14.
+  Copyright (c) 2014 mrott. All rights reserved.
+*/
+
+"wordSearch" = "Word Search";
+"buttonUnlockPackages" = "Get more Packages";
+"packages" = "Packages";
+"quests" = "Quests";
+"Level1" = "Level1";
+"Movies" = "Movies";
+"Completed %d/%d puzzles" = "Completed %d/%d puzzles";
+"Complete 3 different sessions in under 03:00 minutes each" = "Complete 3 different sessions in under 03:00 minutes each";
+"Completed" = "Completed";
+"Scary Movie Titles" = "Scary Movie Titles";
+"bestTime" = "Best time:";
+"costCoins" = "Cost: %d coins";
+"cancel" = "Cancel";
+"OK" = "OK";
+"useHint" = "Use Hint?";
+"useHintMsg" = "Reveal the first char of a word";
+"removeChars" = "Use Remove Chars?";
+"removeCharsMsg" = "Remove some chars to find easier the words";
+"resolvePuzzle" = "Use Resolve Puzzle?";
+"resolvePuzzleMsg" = "Reveal all the words";
+"gamePaused" = "Game Paused";
+"resumeGame" = "Resume Game";
+"congratulations" = "Congratulations!";
+"nextGame" = "Next Game";
+"shareAndWin" = "Share and win Coins!";
+"share" = "Share";
+"%d points" = "%d points";
+"New Record: %@" = "New Record: %@";
+"Time: %@" = "Time: %@";
+"restart" = "Restart";
+"settings" = "Settings";
+"backToPackage" = "Back to Package";
+"moreGames" = "More Games";
+"notifications" = "Notifications";
+"sounds" = "Sounds";
+"music" = "Music";
+"restorePurchases" = "Restore Purchases";
+"about" = "About";
+"coinsDesc1" = "1000 Coins";
+"coinsDesc2" = "3000 Coins + 1000 Free!";
+"coinsDesc3" = "5000 Coins + 3000 Free!";
+"coinsDesc4" = "10000 Coins + 10000 Free!";
+"coins1" = "Coins Basic Pack";
+"coins2" = "Coins Booster Pack";
+"coins3" = "Coins Super Pack";
+"coins4" = "Coins Ultimate Pack";
+"buy" = "Buy";
+"on" = "On";
+"off" = "Off";
+"raterTitle" = "Enjoy %@?";
+"raterMsg" = "If you like %@ and wanna bring more players on-board - rate it with 5 stars too. Every rating helps!";
+"raterNotNow" = "Not now, Thanks";
+"raterRateNow" = "Rate Now";
+"raterMaybeLater" = "Maybe Later";
+
+
+"restoredPurchasesMsg" = "You have successfully restored your purchases!";
+"purchaseError" = "Purchase error";
+"restoreErrorMsg" = "There was an error completing your restore. Please try again later!";
+"purchaseErrorMsg" = "There was an error completing your purchase. Please try again later!";
+"networkConnection" = "Network Connection";
+"networkConnectionMsg" = "Please connect to internet to have access to Coins purchases!";
+"coins" = "Coins";
+"coinsMsg" = "You don't have enough coins!";
+"getCoinsNow" = "Get coins Now!";
+"winCoins" = "Win %d Coins!";
+"watchVideos" = "Watch %d videos";
+"videoAds" = "Video Ads";
+"videoAdsMsg" = "No video ads are available right now. Please come back later!";
+"receivedCoinsMsg" = "You received %d Coins";
+"freeCoins" = "Free Coins";
+"reviewApp" = "Review App";
+"email" = "Email Support";
+"unlockPackages" = "Unlock Packages";

@@ -1,0 +1,214 @@
+{
+    "levels": [
+               {
+               "identifier": 0,
+               "quests": [
+                          {
+                          "identifier": 0,
+                          "description": "Complete 3 different sessions in under 03:00 minutes each",
+                          "type": 1,
+                          "cost": 500,
+                          "value": 3,
+                          "valuetime": 180
+                          },
+                          {
+                          "identifier": 1,
+                          "description": "Complete 2 consecutive sessions in under 03:00 minutes each",
+                          "type": 2,
+                          "cost": 800,
+                          "value": 3,
+                          "valuetime": 180
+                          },
+                          {
+                          "identifier": 2,
+                          "description": "Complete 1 puzzle",
+                          "type": 3,
+                          "cost": 800,
+                          "value": 1,
+                          "valuetime": 0
+                          }
+                          ],
+               "name": "Level 1"
+               },
+               {
+               "identifier": 1,
+               "quests": [
+                          {
+                          "identifier": 3,
+                          "description": "Complete 5 different sessions in under 02:30 minutes each",
+                          "type": 1,
+                          "cost": 500,
+                          "value": 5,
+                          "valuetime": 150
+                          },
+                          {
+                          "identifier": 4,
+                          "description": "Complete 3 consecutive sessions in under 02:30 minutes each",
+                          "type": 2,
+                          "cost": 800,
+                          "value": 3,
+                          "valuetime": 150
+                          },
+                          {
+                          "identifier": 5,
+                          "description": "Complete 2 puzzles",
+                          "type": 3,
+                          "cost": 800,
+                          "value": 2,
+                          "valuetime": 0
+                          }
+                          ],
+               "name": "Level 2"
+               },
+               {
+               "identifier": 2,
+               "quests": [
+                          {
+                          "identifier": 6,
+                          "description": "Complete 5 different sessions in under 02:15 minutes each",
+                          "type": 1,
+                          "cost": 500,
+                          "value": 5,
+                          "valuetime": 135
+                          },
+                          {
+                          "identifier": 7,
+                          "description": "Complete 3 consecutive sessions in under 02:15 minutes each",
+                          "type": 2,
+                          "cost": 800,
+                          "value": 3,
+                          "valuetime": 135
+                          },
+                          {
+                          "identifier": 8,
+                          "description": "Complete 3 puzzles",
+                          "type": 3,
+                          "cost": 800,
+                          "value": 3,
+                          "valuetime": 0
+                          }
+                          ],
+               "name": "Level 3"
+               },
+               {
+               "identifier": 3,
+               "quests": [
+                          {
+                          "identifier": 9,
+                          "description": "Complete 5 different sessions in under 02:00 minutes each",
+                          "type": 1,
+                          "cost": 500,
+                          "value": 5,
+                          "valuetime": 120
+                          },
+                          {
+                          "identifier": 10,
+                          "description": "Complete 3 consecutive sessions in under 02:00 minutes each",
+                          "type": 2,
+                          "cost": 800,
+                          "value": 3,
+                          "valuetime": 120
+                          },
+                          {
+                          "identifier": 11,
+                          "description": "Complete 3 puzzles",
+                          "type": 3,
+                          "cost": 800,
+                          "value": 3,
+                          "valuetime": 0
+                          }
+                          ],
+               "name": "Level 4"
+               },
+               {
+               "identifier": 4,
+               "quests": [
+                          {
+                          "identifier": 12,
+                          "description": "Complete 7 different sessions in under 02:00 minutes each",
+                          "type": 1,
+                          "cost": 500,
+                          "value": 7,
+                          "valuetime": 120
+                          },
+                          {
+                          "identifier": 13,
+                          "description": "Complete 5 consecutive sessions in under 02:00 minutes each",
+                          "type": 2,
+                          "cost": 800,
+                          "value": 5,
+                          "valuetime": 120
+                          },
+                          {
+                          "identifier": 14,
+                          "description": "Complete 5 puzzles",
+                          "type": 3,
+                          "cost": 800,
+                          "value": 5,
+                          "valuetime": 0
+                          }
+                          ],
+               "name": "Level 5"
+               },
+               {
+               "identifier": 5,
+               "quests": [
+                          {
+                          "identifier": 15,
+                          "description": "Complete 10 different sessions in under 01:45 minutes each",
+                          "type": 1,
+                          "cost": 500,
+                          "value": 10,
+                          "valuetime": 105
+                          },
+                          {
+                          "identifier": 16,
+                          "description": "Complete 3 consecutive sessions in under 01:45 minutes each",
+                          "type": 2,
+                          "cost": 800,
+                          "value": 3,
+                          "valuetime": 105
+                          },
+                          {
+                          "identifier": 17,
+                          "description": "Complete 7 puzzles",
+                          "type": 3,
+                          "cost": 800,
+                          "value": 7,
+                          "valuetime": 0
+                          }
+                          ],
+               "name": "Level 6"
+               },
+               {
+               "identifier": 6,
+               "quests": [
+                          {
+                          "identifier": 18,
+                          "description": "Complete 10 different sessions in under 01:30 minutes each",
+                          "type": 1,
+                          "cost": 500,
+                          "value": 10,
+                          "valuetime": 90
+                          },
+                          {
+                          "identifier": 19,
+                          "description": "Complete 5 consecutive sessions in under 01:45 minutes each",
+                          "type": 2,
+                          "cost": 800,
+                          "value": 5,
+                          "valuetime": 105
+                          },
+                          {
+                          "identifier": 20,
+                          "description": "Complete 8 puzzles",
+                          "type": 3,
+                          "cost": 800,
+                          "value": 8,
+                          "valuetime": 0
+                          }
+                          ],
+               "name": "Level 7"
+               },
+               ]
+}
